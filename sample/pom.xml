@@ -31,8 +31,8 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<android.version>4.2.2_r2</android.version>
-		<android.version.platform>17</android.version.platform>
+		<android.version>4.3_r1</android.version>
+		<android.version.platform>18</android.version.platform>
 	</properties>
 
 	<dependencies>
